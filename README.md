@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> a react client for the drops note-taking API
+> a react client for drops-api
 
 ## Install
 
@@ -30,7 +30,7 @@ npm run test
 
 👤 **Harrison Grieve**
 
-* Github: [@rhgrieve](https://github.com/rhgrieve)
+- Github: [@rhgrieve](https://github.com/rhgrieve)
 
 ## Show your support
 
@@ -41,5 +41,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [Harrison Grieve](https://github.com/rhgrieve).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
